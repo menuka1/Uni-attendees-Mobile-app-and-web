@@ -1,0 +1,6 @@
+
+UpperCamelNotation -> Use first letter upper Camel Notation for class and file names.
+under_score        -> Use underscore to define functions and casual variables.
+UPPER              -> Use upper case for special variables like class attributes & etc.
+
+Commenting         -> Commenting is not necessary unless you are writing a complex process

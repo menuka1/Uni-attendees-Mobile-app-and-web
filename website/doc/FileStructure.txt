@@ -1,0 +1,52 @@
+Project ( PHP-SINGLEUSER )
+│   .env
+│   .gitignore
+│   .htaccess
+│   index.php
+│   README.md
+│
+├───config
+│       config.php
+│       paths.php
+│       settings.php
+│
+├───controller
+│       controller.php
+│
+├───core
+│       autoload.php
+│       DotEnv.php
+│       env.php
+│       get-browser.php
+│       set-browser.php
+│       settings.php
+│       Util.php
+│
+├───doc
+│       CodeStyle.txt
+│       CookieStructure.txt
+│       FileStructure.txt
+│       SessionStructure.txt
+│
+├───model
+│       model.php
+│
+├───paths
+│       404.php
+│       home.php
+│       sample.php
+│
+├───view
+│       404.view.php
+│       home.view.php
+│       sample.view.php
+    │
+    ├───home
+    │       index.view.php
+    │
+    └───include
+            aside.php
+            footer.php
+            header.php
+            meta.php
+            navigator.php

@@ -1,0 +1,6 @@
+urls = {
+    "login": {
+    },
+    "signup": {
+    },
+}

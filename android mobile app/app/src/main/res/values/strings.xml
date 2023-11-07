@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PRESENT</string>
+    <string name="google_map_key">AIzaSyD2Wty15KnL8TSbj3BMR_DK9G33sEMbQAI</string>
+    <string name="map_id">ebf4f10df82e8120</string>
+    <string name="today">Today</string>
+    <string name="login">Login</string>
+    <string name="toSignup"><u>I don\'t have an account</u></string>
+    <string name="password">Password</string>
+    <string name="email">Student Email</string>
+    <string name="signup">Signup</string>
+    <string name="join">Join Now</string>
+    <string name="toLogin"><u>I have and account</u></string>
+    <string name="student_id">Student ID</string>
+    <string name="user_name">Student User Name</string>
+    <string name="attend">Mark My Attendance</string>
+</resources>

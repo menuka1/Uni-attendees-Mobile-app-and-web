@@ -1,0 +1,13 @@
+### Code Styles ###
+
+/*                          - Object / Function definition
+//                          - Build in comments
+#                           - Dev comments
+{}                          - always use a new line to write either '{' or '}'
+tab                         - always use preffered tabbing for the better visualization of the code
+
+
+### Coding Rules ###
+
+camelNotation               - Use camel notation instead of '-' for function declaration if the view file has it.
+under_score                 - Use underscore if the view file expands into a folder

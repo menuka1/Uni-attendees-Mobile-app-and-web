@@ -1,0 +1,26 @@
+REST-API
+|   main.py
+|   requirements.txt
+|   README.md
+|   .env
+|
++---Parsers
+|   |   UserParser.py
+|
++---Controller
+|   |   UserController.py
+|
++---DB
+|   |   mergeDB.py
+|
++---Doc
+|   |   UnitTester.py
+|   |   urls.py
+|   |   FileStructure.txt
+|   |   CodeStyle.txt
+|   |   ReturnCodes.txt
+|
+\---Model
+    |   LogModel.py
+    |   AdminModel.py
+    |   __init__.py
